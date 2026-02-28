@@ -10,3 +10,9 @@
 .font_poppins {
   font-family: "Poppins", sans-serif;
 }
+
+.card_style {
+  width: 285px;
+  height: 446px;
+  background-color: #f4f5f7;
+}
